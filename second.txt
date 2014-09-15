@@ -2,4 +2,4 @@ valamivalami
 uj sor
 merge
 prepare for rebase
-
+ujjgyakorlat
