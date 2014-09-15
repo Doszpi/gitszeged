@@ -4,3 +4,4 @@ Valami
 dafasdif
 merge lesz
 szivas
+rebase
